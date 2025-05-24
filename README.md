@@ -2,8 +2,8 @@
 
 This project is a visual simulation of a reptile skeleton using custom 2D segments rendered via JavaScript and HTML5 Canvas. Inspired by procedural modeling techniques, the animation mimics skeletal structure and motion, with individual bones and limbs connected and animated to form a lifelike creature.
 
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/d9fdeb92-47c5-4306-ad6d-f9a57698f37d)
-)
+
+![download](https://github.com/user-attachments/assets/2476e69f-c61c-47fd-b781-3efa43c08d56)
 
 ---
 
