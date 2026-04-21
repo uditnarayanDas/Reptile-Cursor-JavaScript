@@ -24,3 +24,5 @@ This project is a visual simulation of a reptile skeleton using custom 2D segmen
 ├── models/            # (Optional) Directory to include 3D models
 ├── README.md          # Project documentation
 └── Screenshot.png     # Project preview image
+
+Worked on backend optimization today 🚀
